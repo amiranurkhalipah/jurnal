@@ -23,9 +23,9 @@ public class NO2 {
         int a, b;
         Scanner in = new Scanner(System.in);
         System.out.println("Masukkan Bilangan ");
-        System.out.println("Awal : ");
+        System.out.println("Awal bilangan : ");
         a = in.nextInt();
-        System.out.println("Akhir : ");
+        System.out.println("Akhir bilangan : ");
         b = in.nextInt();
         System.out.println("Keluar Bilangan ");
         System.out.println("Deret bilangan antar prima " + a + " dan " + b);
