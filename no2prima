@@ -39,10 +39,11 @@ public class NO2 {
             }
         }
         if (p) {
+        sum=sum+y;
             System.out.println(y + " ");
 
         }
-        y++;
+        y--;
 
     }
 
